@@ -1,8 +1,8 @@
-//***************************************************************//                                           //
+//***************************************************************//
 // Filename: Decrypt.java                                        //
 // Description: Decrypt class. Use main method to for decrypting //
 //              an encoded text file with an Enigma Machine      //
-//              object.                                          //                                                             //
+//              object.                                          //
 //                                                               //
 //***************************************************************//
 

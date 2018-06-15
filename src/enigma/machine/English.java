@@ -1,9 +1,9 @@
 
 //***************************************************************//
-// Filename: English.java                                        //                                               //
+// Filename: English.java                                        //
 // Description: English class. Stores data about english letter  //
 //              frequencies and deviations. Includes two methods //
-//              that count letters in a string and count errors  //                                                          //
+//              that count letters in a string and count errors  //
 //                                                               //
 //***************************************************************//
 

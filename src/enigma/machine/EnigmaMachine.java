@@ -1,4 +1,4 @@
-//***************************************************************//                                             //
+//***************************************************************//
 // Filename: EnigmaMachine.java                                  //
 // Description: EnigmaMachine class. 1 constructor, various      //
 //              methods that mimic the encoding and decoding     //
